@@ -1,6 +1,6 @@
----
-title: Debugging
-description: |
+--
+título: mundo de diversão 💫🏳️‍🌈
+description:seja feliz com o mundo de diversão com a lelê ❤
   Debugging tools help you resolve errors and inspect scripts line-by-line as they run.
 tags:
   - Roblox Studio
